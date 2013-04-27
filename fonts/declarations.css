@@ -1,0 +1,55 @@
+
+
+@font-face {
+    font-family: 'hagin_caps_mediumregular';
+    src: url('hagin/hagin_caps_medium.eot');
+    src: url('hagin/hagin_caps_medium.eot?#iefix') format('embedded-opentype'),
+         url('hagin/hagin_caps_medium.svg') format('svg'),
+		 url('hagin/hagin_caps_medium.woff') format('woff'),
+         url('hagin/hagin_caps_medium.ttf') format('truetype');
+         
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'engel_light_ltdlight';
+    src: url('engel/engel.eot');
+    src: url('engel/engel.eot?#iefix') format('embedded-opentype'),
+		 url('engel/engel.svg') format('svg'),
+		 url('engel/engel.woff') format('woff'),
+         url('engel/engel.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'narratorregular';
+    src: url('narrator/narrator.eot');
+    src: url('narrator/narrator.eot?#iefix') format('embedded-opentype'),
+         url('narrator/narrator.svg') format('svg'),
+		 url('narrator/narrator.woff') format('woff'),
+         url('narrator/narrator.ttf') format('truetype');
+         
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'barkentina_testregular';
+    src: url('barkentina/barkentina_1.eot');
+    src: url('barkentina/barkentina_1.eot?#iefix') format('embedded-opentype'),
+		 url('barkentina/barkentina_1.svg') format('svg'),
+		 url('barkentina/barkentina_1.woff') format('woff'),
+         url('barkentina/barkentina_1.ttf') format('truetype');
+    
+    font-weight: normal;
+    font-style: normal;
+
+}
+}
